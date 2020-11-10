@@ -5,7 +5,7 @@ module.exports = {
   entry: './src/main.js',
   output: {
     filename:'bundle.js',
-    path: path.resolve(_dirname, 'dist')
+    path: path.resolve(__dirname, 'dist')
   },
   devtool:'eval-source-map',
   devServer:{
