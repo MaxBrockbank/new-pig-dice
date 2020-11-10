@@ -18,6 +18,8 @@
 
 ## Specs
 
+| Test  | Input | Output  |
+| :---: | :---: |  :---:  |
 ## Legal
 * Copyright © 2020 Max Brockbank
 * This software is licensed under the MIT license
