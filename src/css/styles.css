@@ -1,0 +1,51 @@
+#start{
+  width:100%;
+}
+
+#game{
+  display: none;
+  margin-top: 50px;
+}
+
+#form {
+  margin-top: 50px;
+}
+
+#dice {
+  border: solid 3px black;
+  height: 50px;
+  width: 50px;
+  text-align: center;
+  padding-top: 4px;
+  border-radius: 15%;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+#score {
+  text-align: center;
+}
+
+input{
+  border: none;
+}
+
+.card{
+  border:none;
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+.player{
+  left: 50%;
+}
+
+.roll, .hold{
+  width: 48%;
+}
+
+body {
+  background-size: cover; 
+  background-repeat: no-repeat;
+  background-position: 0px -350px;
+}
